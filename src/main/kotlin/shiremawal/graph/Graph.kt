@@ -1,4 +1,4 @@
-package io.deiga.graph
+package io.deiga.shiremawal.graph
 
 data class Node(val id: Int, val name: String)
 
